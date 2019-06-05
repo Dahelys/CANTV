@@ -1,0 +1,16 @@
+
+; Maximum allowed size for uploaded files.
+; http://php.net/upload-max-filesize
+upload_max_filesize=10M
+
+; Maximum number of files that can be uploaded via a single request
+max_file_uploads=20
+
+; Tiempo Maximo de ejecución
+max_execution_time = 30
+
+; Limite de la Memoria para un Script
+memory_limit = 64M
+
+modificar 
+max_execution_time=300

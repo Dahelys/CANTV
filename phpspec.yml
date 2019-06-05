@@ -1,0 +1,5 @@
+suites:
+    main:
+        namespace: reporte_red_datos_cantv
+        psr4_prefix: reporte_red_datos_cantv
+        src_path: app
